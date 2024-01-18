@@ -1,0 +1,4 @@
+-  Hi, I’m Reynold Anthony
+-  I’m interested in Photography, Outdoors and Technology
+-  I’m currently learning Full-Stack Web Development
+-  How to reach me reynoldanthony97@gmail.com
